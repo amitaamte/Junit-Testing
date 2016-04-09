@@ -1,6 +1,4 @@
-Homework 1
 
-Student id: 17412423
 Amita Shirish Amte
 
 1. Created a new package in src/java/test called default package which has been submitted.

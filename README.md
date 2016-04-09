@@ -1,5 +1,10 @@
 ![build status](https://travis-ci.org/SERG-Delft/jpacman-framework.svg?branch=master)
 
+To see my Junit Test file, follow the path:
+src->test->java
+
+Scenarios tested are listed under doc->scenarios
+
 JPacman-Framework
 =================
 

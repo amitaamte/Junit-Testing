@@ -50,6 +50,7 @@ public class Launcher {
 		Level level = makeLevel();
 		return gf.createSinglePlayerGame(level);
 	}
+	
 
 	/**
 	 * Creates a new level. By default this method will use the map parser to
@@ -66,6 +67,7 @@ public class Launcher {
 			throw new PacmanConfigurationException("Unable to create level.", e);
 		}
 	}
+	
 
 	/**
 	 * @return A new map parser object using the factories from

@@ -1,5 +1,5 @@
 package nl.tudelft.jpacman.npc.ghost;
-
+//create a board
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
